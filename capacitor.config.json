@@ -1,0 +1,6 @@
+{
+  "appId": "com.nibble.app",
+  "appName": "nibble",
+  "webDir": "out/app",
+  "bundledWebRuntime": false
+}
